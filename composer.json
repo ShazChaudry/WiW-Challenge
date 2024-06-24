@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "symfony/symfony": "^7.1",
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    }
+}
